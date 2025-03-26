@@ -1,3 +1,4 @@
+![Screenshot 2025-03-25 205630](https://github.com/user-attachments/assets/e612439c-e136-410c-b709-ace9822becce)
 # Welcome to ObsidiDraw! 
 ## About ObsidiDraw:
 ObsidiDraw is a free and open source plugin meant for obsidian note takers to be able to annotate their pages and handwrite notes either permanently or temporarily. 
