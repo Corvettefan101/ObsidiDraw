@@ -1,0 +1,10 @@
+{
+	"id": "ObsidiDraw",
+	"name": "ObsidiDraw",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Add drawing capabilities to Obsidian",
+	"author": "Corvettefan101 and Claude",
+	"authorUrl": "https://github.com/Corvettefan101",
+	"isDesktopOnly": false
+}

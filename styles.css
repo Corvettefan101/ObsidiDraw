@@ -1,0 +1,25 @@
+.freehand-notes-canvas {
+	background-color: transparent;
+	pointer-events: auto;
+}
+
+.freehand-notes-toolbar {
+	background-color: rgba(255, 255, 255, 0.9);
+	border-radius: 8px;
+	padding: 10px;
+	box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.freehand-notes-toolbar button {
+	background: none;
+	border: none;
+	cursor: pointer;
+	font-size: 20px;
+	padding: 5px;
+	margin: 0 5px;
+}
+
+.freehand-notes-toolbar button:hover {
+	background-color: rgba(0,0,0,0.1);
+	border-radius: 4px;
+}
