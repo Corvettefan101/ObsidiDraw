@@ -4,6 +4,7 @@ ObsidiDraw is a free and open source plugin meant for obsidian note takers to be
 ObsidiDraw was Created by Corvettefan101 and the Anthropic Claude 3.5 Haiku Model (Claude did all the coding, I refined it, tested, and implemented it)
 ## Installation Instructions:
 Step #1: Download https://obsidian.md/
+
 Step #2: Create a Obsidian "Vault"
 Step #3: Navigate to your Obsidian Settings and enable "Community Plugins"
 Step #4: Navigate to the ObsidiDraw releases and download the zip file
